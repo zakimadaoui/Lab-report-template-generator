@@ -1,0 +1,11 @@
+get module 
+get lab number
+get lab color
+get group number
+get number of binomes
+get binomes names 
+get instructor name
+set the date to today's date
+name file as: "module" + "lab" + "lab number".docx
+
+and the the style a bit different than yours or a more basic one
